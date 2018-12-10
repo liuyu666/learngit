@@ -4,4 +4,4 @@ I add a paragraph!
 
 create a new branch
 
-我再加一句话啊啊啊啊啊
+git解决冲突
