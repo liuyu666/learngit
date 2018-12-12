@@ -6,7 +6,4 @@ create a new branch
 
 git解决冲突
 
-分支管理
-
-修改bug
-修改bug过程
+解决冲突分支管理
